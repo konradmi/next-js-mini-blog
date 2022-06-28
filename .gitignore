@@ -1,0 +1,10 @@
+OS
+.DS_STORE
+*.log
+.env
+
+#dependencies
+node_modules
+
+#next.js
+/.next/
