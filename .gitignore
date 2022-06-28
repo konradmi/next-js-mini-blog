@@ -8,3 +8,10 @@ node_modules
 
 #next.js
 /.next/
+
+dist
+coverage
+
+# IDE
+.idea
+.vscode
